@@ -34,7 +34,6 @@ from urllib.parse import urlparse
 import requests
 
 from pip._internal.operations.prepare import (
-    _download_http_url,
     unpack_url,
 )
 
