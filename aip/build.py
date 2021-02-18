@@ -32,7 +32,6 @@ from pip._internal.models.link import Link
 import shutil
 
 from pip._internal.operations.prepare import (
-    _download_http_url,
     unpack_url,
 )
 import os
